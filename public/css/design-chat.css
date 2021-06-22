@@ -1,0 +1,45 @@
+.color-logo{
+    color: #ffff;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.login button > i{
+    padding-right: .5rem;    
+}
+
+.login button{
+    margin-left: .5rem;
+}
+#navbarNav ul li{
+    font-weight: 500;
+}
+#navbarNav ul li:hover{
+    display: block;
+    border-bottom: 2px black solid;
+    padding: 0;
+}
+.modalLogin-title i, .modalSignup-title i{
+    margin-right: 1.5rem;
+}
+.social-media{
+    display: flex;
+}
+.footer{
+    display: grid;
+    justify-content: center;
+}
+.main-section{
+    background: url('../images/background.jpg') no-repeat;
+    background-size: cover;
+}
+@media(max-width: 1024px) {
+    .login button{
+        margin-top: .5rem;
+        margin-left: 0;
+    }
+    img{
+        width: 100px;
+        border-radius: 5px;
+    }
+}
