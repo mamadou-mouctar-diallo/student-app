@@ -111,12 +111,3 @@ a:hover{
     width: 200px;
     height: auto;
 }
-
-
-
-
-<li class="nav-item"><a class="nav-link text-light" href="#">Administrations</a></li>
-<li class="nav-item"><a class="nav-link text-light" href="#">Studies</a></li>
-<li class="nav-item"><a class="nav-link text-light" href="#">logements</a></li>
-<li class="nav-item"><a class="nav-link text-light" href="#">Health</a></li>
-<li class="nav-item"><a class="nav-link text-light" href="#">Social Assistance</a></li>
